@@ -1,5 +1,7 @@
-# android_kernel_Google_glass_1
-Kernel source for Google Glass Explorer Edition
+Kernel source for Google Glass Explorer Edition (_glass_1_)
+=====================================================
+
+## Version Sheet
 
 | Android Version | Build | Build Number | Build Date | Bootloader | Version |
 | ------ | ------ | ------ | ------ | ------ | ------ |
